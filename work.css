@@ -18,7 +18,7 @@
 }
 .step{
 	width: 960px;
-	height: 400px;
+	height: 450px;
 }
 .toc1{
 	height: 200px;
@@ -101,32 +101,38 @@
 @media screen and (max-width:768px) {
 
 .main{
-	width: 100%;
-	margin: 50px auto;
+	width: 90%;
+	height: 1490px;
 }
 .step{
-	width: 100%;
+	width: 90%;
+	margin: 0 auto;
 }
 .toc1{
-	width: 100%;
+	width: 90%;
+	margin: 10px auto;
 }
 .toc2{
-	width: 100%;
+	width: 90%;
+	margin: 10px auto;
 }
 .toc3{
-	width: 100%;
+	width: 90%;
+	margin: 10px auto;
 }
 
 
 .step1{
 	float: none;
+	margin: 0 auto;
 }
 .step2{
 	float: none;
-	margin: 0;
+	margin: 20px auto;
 }
 .step3{
 	float: none;
+	margin: 0 auto;
 }
 
 }
