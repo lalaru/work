@@ -110,21 +110,36 @@
 }
 .step{
 	margin: 0px auto;	
-	width: 90%;
+	*width: 90%;
 }
 .toc1{
    margin: 10px auto;
 	width: 90%;
+	background-position: center;
+}
+.toc1 p{
+	position: relative;
+	right: 5.7%
 }
 
-}
+
 .toc2{
 	margin: 10px auto;
 	width: 90%;
+	background-position: center;
+}
+.toc2 p{
+	position: relative;
+	right: 5.7%;
 }
 .toc3{
 	margin: 10px auto;
 	width: 90%;
+	background-position: center;
+}
+.toc3 p{
+	position: relative;
+	right: 5.7%;
 }
 
 
